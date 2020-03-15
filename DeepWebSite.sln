@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepWebSite", "DeepWebSite.csproj", "{E10A57DD-33A9-44BC-A956-D12B5EAFD6EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E10A57DD-33A9-44BC-A956-D12B5EAFD6EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E10A57DD-33A9-44BC-A956-D12B5EAFD6EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E10A57DD-33A9-44BC-A956-D12B5EAFD6EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E10A57DD-33A9-44BC-A956-D12B5EAFD6EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {984E3701-7D82-4E0E-BE1F-600496275A94}
+	EndGlobalSection
+EndGlobal
